@@ -1,13 +1,3 @@
-# "Знаю" - Микросервис и чатбот в телеграм для генерации ответов на вопросы
-
-Этот проект использует [OpenAI](https://openai.com/) для генерации ответов на вопросы к базе знаний. Бот доступен по ссылке: [t.me/znayu_ai_bot](https://t.me/znayu_ai_bot)
-
-## Навигация
-
-- [**ML сервис - "Знаю" - ИИ Помощник для базы знаний**](https://github.com/philadelphia-rus/znayu-ai) <-- Вы здесь
-- [Бекенд](https://github.com/philadelphia-rus/Backend)
-- [Мобильное приложение](https://github.com/philadelphia-rus/mobile-app)
-
 ## Стек
 
 Основной язык: *Python 3.8+*
